@@ -1,4 +1,4 @@
-# 🧹 Grabroom / ClassVault 📂
+# 🧹 Grabroom (Massive Download from Google Classroom) 📂
 
 ![image](https://github.com/salvatorecapolupo/grabroom/blob/3a4b9026901f8f5540c337dd09682f912548d05c/grabroom-capolupo.png)
 
