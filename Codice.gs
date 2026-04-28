@@ -1,3 +1,23 @@
+function listMyCourses() {
+  // Recupera la lista di tutti i corsi a cui sei iscritto
+  const response = Classroom.Courses.list();
+  const courses = response.courses;
+
+  console.log("--- ELENCO CORSI DISPONIBILI ---");
+
+  if (courses && courses.length > 0) {
+    for (const course of courses) {
+      // Stampa il nome del corso e l'ID numerico reale
+      console.log("NOME: " + course.name);
+      console.log("ID TECNICO: " + course.id); 
+      console.log("--------------------------------");
+    }
+    console.log("Copia l'ID TECNICO del corso che ti interessa e incollalo nello script principale.");
+  } else {
+    console.log("Nessun corso trovato. Verifica di aver effettuato l'accesso con l'account corretto.");
+  }
+}
+
 function extractDeepClassroomArchive() {
   const courseId = '.....'; // <--- ASSICURATI CHE SIA CORRETTO
   const folderName = '...';
