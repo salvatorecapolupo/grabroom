@@ -1,6 +1,6 @@
 # 🧹 Grabroom / ClassVault 📂
 
-![Anteprima di Grabroom](grabroom.png)
+grabroom.png
 
 **[ITA]** Uno script potente per estrarre, rinominare e archiviare automaticamente tutti gli allegati da Google Classroom a Google Drive.  
 
