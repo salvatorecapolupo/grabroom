@@ -1,6 +1,6 @@
 # 🧹 Grabroom / ClassVault 📂
 
-grabroom.png
+![image]([grabroom.png](https://github.com/salvatorecapolupo/grabroom/blob/3a4b9026901f8f5540c337dd09682f912548d05c/grabroom-capolupo.png))
 
 **[ITA]** Uno script potente per estrarre, rinominare e archiviare automaticamente tutti gli allegati da Google Classroom a Google Drive.  
 
