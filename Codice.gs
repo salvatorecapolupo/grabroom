@@ -1,6 +1,6 @@
 function extractDeepClassroomArchive() {
-  const courseId = '718134981130'; // <--- ASSICURATI CHE SIA CORRETTO
-  const folderName = 'Sistemi_5M';
+  const courseId = '.....'; // <--- ASSICURATI CHE SIA CORRETTO
+  const folderName = '...';
   
   const destFolder = DriveApp.createFolder(folderName);
   console.log("Cartella creata: " + folderName);
